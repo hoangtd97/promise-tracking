@@ -1,0 +1,24 @@
+{
+  "name": "promise-tracking",
+  "version": "1.0.0",
+  "description": "Tracking promise status at multi time-points, and cancel the process if you want.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hoangtd97/promise-tracking.git"
+  },
+  "keywords": [
+    "promise",
+    "tracking",
+    "at"
+  ],
+  "author": "Trần Đình Hoàng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hoangtd97/promise-tracking/issues"
+  },
+  "homepage": "https://github.com/hoangtd97/promise-tracking#readme"
+}
